@@ -1,0 +1,16 @@
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\GetRequiredNumberTest.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\GetRequiredNumberTest.pdb
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\GetRequiredNumber.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\GetRequiredNumber.pdb
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\obj\Debug\GetRequiredNumberTest.csprojAssemblyReference.cache
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\obj\Debug\GetRequiredNumberTest.csproj.CoreCompileInputs.cache
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\obj\Debug\GetRequiredNumberTest.csproj.CopyComplete
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\obj\Debug\GetRequiredNumberTest.dll
+C:\Users\mmakumba\source\repos\EuroMonitor\GetRequiredNumberTest\obj\Debug\GetRequiredNumberTest.pdb
